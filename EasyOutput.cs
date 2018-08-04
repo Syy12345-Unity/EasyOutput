@@ -1,3 +1,4 @@
+// github https://github.com/Syy12345-Unity/EasyOutput 
 using System.IO;
 using System.Text;
 using UnityEngine;
