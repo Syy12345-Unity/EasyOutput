@@ -6,7 +6,8 @@ Output to text file or Unity Console (Unity Editor only)
 * Output to Unity Console
 
 # Usage
-First, execute the Clear function. Next, execute the Append function, and finally execute the Output function.
+Import EasyOutput.cs your Unity project.
+Then, execute the Clear function. Next, execute the Append function, and finally execute the Output function.
 
 ```C#:Sample_EasyOutput
 using System.Collections;
