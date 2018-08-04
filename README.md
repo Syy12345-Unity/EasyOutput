@@ -42,6 +42,18 @@ namespace Syy.Sample {
 
 ```
 
+## Output
+```Output.txt
+
+append1append2append3appendLine1
+appendLine2
+appendLine3
+message AppendFormat1message AppendFormat2message AppendFormat3message AppendFormatLine1
+message AppendFormatLine2
+message AppendFormatLine3
+
+```
+
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
